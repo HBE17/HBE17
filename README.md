@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Hicham and I am currently enrolled into the School Of Code
+Im hoping the jourmey with them will lead me onto a great career in tech and make some good comnnections with like minded people along the way 😄
+
+
 
 <!--
 **HBE17/HBE17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
